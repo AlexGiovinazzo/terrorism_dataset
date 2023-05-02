@@ -1,4 +1,4 @@
-﻿Row,FIPS,GENC,Country/Area Name,Year,Population,Annual Growth Rate %,Area (sq km),Density (per sq km),Total Fertility Rate,Life Expectancy at Birth,Under-5 Mortality Rate
+﻿Row,FIPS,GENC,Country,Year,Population,Annual_Growth_Rate%,Area,Density,Total_Fertility_Rate,Life_Expectancy,Under_5_Mortality_Rate
 1,AF,AF,Afghanistan,2023,39232003,2.262,652230,60.2,4.528,54.05,151.27
 2,AL,AL,Albania,2023,3101621,0.19,27398,113.2,1.5459,79.7,12.33
 3,AG,DZ,Algeria,2023,44758398,1.27,2381740,18.8,2.4662,78.27,22.27
